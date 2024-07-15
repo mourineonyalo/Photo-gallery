@@ -30,9 +30,9 @@
   }
   
   .gallery img {
-    width: 100%;
-    max-width: 350px;
-    height: 300px;
+    width: 30%;
+    max-width: 400px;
+    height: 500px;
     object-fit: cover;
     border-radius: 10px;
   }
